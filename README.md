@@ -1,5 +1,4 @@
-# 🪨📄✂️ Rock Paper Scissors Plus
-
+# 🪨📄✂️ Rock Paper Scissors 
 An enhanced version of the classic Rock Paper Scissors game with AI-powered commentary and a special "bomb" move! Built with Streamlit and powered by Groq AI for intelligent game commentary.
 
 ## 🌟 Features
